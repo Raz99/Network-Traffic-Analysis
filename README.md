@@ -12,7 +12,7 @@ The analysis included:
 - Comparing packet amount and sizes.
 - Drawing conclusions regarding an attacker's ability to identify the application the user accessed, based on hash of the 4-tuple flow ID availability.
 
-Please take a look at the [attached PDF](Communication Networks - Final Project.pdf).
+Please take a look at the [attached PDF](https://github.com/Raz99/CN_final_project/blob/17f36f38d3614cab28ee11abfe2f55ec64a8c5ab/Communication%20Networks%20-%20Final%20Project.pdf).
 
 ## Installation
 ### Prerequisites
