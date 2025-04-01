@@ -1,5 +1,5 @@
 
-# Network Communication - Final Project
+# Communication Networks - Final Project
 
 ## Project Description
 
@@ -12,7 +12,7 @@ The analysis included:
 - Comparing packet amount and sizes.
 - Drawing conclusions regarding an attacker's ability to identify the application the user accessed, based on hash of the 4-tuple flow ID availability.
 
-Please take a look at the [attached PDF](add link).
+Please take a look at the [attached PDF](Communication Networks - Final Project.pdf).
 
 ## Installation
 ### Prerequisites
@@ -26,8 +26,8 @@ Before running the scripts, ensure you have the following installed:
 ### Cloning the Repository
 If you haven't already, clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Raz99/CN_final_project.git
+cd CN_final_project
 ```
 
 ### Setting Up the Environment
